@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Mi primer proyecto en react, VAMO ARRIBA PEÑAROL
         </p>
         <a
           className="App-link"
